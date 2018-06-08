@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zemin Liu / PhD Candidate"
+title                    : "Zemin Liu"
 title_separator          : "-"
 name                     : &name "Zemin Liu"
 description              : &description "4th year PhD student at Rensselaer Polytechnic Institute, Electrical, Computer and Systems Engineering"
