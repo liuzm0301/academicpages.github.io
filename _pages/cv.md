@@ -11,19 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Xi'an Jiaotong University, 2006-2010
+* M.S. in Shanghai Jiaotong University, 2010-2013
+* Ph.D in Rensserlaer Polytechnic Institute, 2014-2019 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2013.04-2014.06: ATE Application Engineering in Teradyne, Shanghai
+  * Teradyne, Shanghai
+  * Duties included:
 
-* Fall 2015: Research Assistant
-  * Github University
+* 2011.03-2011.09: RF Intern in Analog Devices Inc, Shanghai
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
