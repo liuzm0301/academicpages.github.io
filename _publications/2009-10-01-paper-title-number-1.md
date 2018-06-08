@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 1"
+title: "A low-power adjustable bandwidth biomedical signals acquisition SoC for continuous health monitoring system"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2016-ISCAS
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: May 2016
+venue: 'ISCAS'
+paperurl: 'http://liuzm0301.github.io/files/paper1.pdf'
+citation: 'Y. P. Hsu, Z. Liu and M. M. Hella, "A low-power adjustable bandwidth biomedical signals acquisition SoC for continuous health monitoring system," 2016 IEEE International Symposium on Circuits and Systems (ISCAS), Montreal, QC, 2016, pp. 1538-1541.
+'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://liuzm0301.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Y. P. Hsu, Z. Liu and M. M. Hella, "A low-power adjustable bandwidth biomedical signals acquisition SoC for continuous health monitoring system," 2016 IEEE International Symposium on Circuits and Systems (ISCAS), Montreal, QC, 2016, pp. 1538-1541.
